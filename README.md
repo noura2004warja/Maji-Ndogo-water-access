@@ -47,7 +47,7 @@ Maintains details about different water sources, including the number of people 
 
 Tracks pollution test results, recording contamination levels and potential risks to water safety.
 
-For a full breakdown of table schemas, including column details and data types, refer to the **[SCHEMA.md]([SCHEMA.md](https://github.com/noura2004warja/Maji-Ndogo-water-access/blob/main/Dataset/SCHEMA.md))** file.
+For a full breakdown of table schemas, including column details and data types, refer to the **[SCHEMA.md]((https://github.com/noura2004warja/Maji-Ndogo-water-access/blob/main/Dataset/SCHEMA.md))** file.
 
 ## How This Data Can Be Used
 
