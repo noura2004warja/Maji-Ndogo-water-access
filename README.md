@@ -1,6 +1,6 @@
 # Maji-Ndogo-water-access-project
 
-![Project Overview].(./image/Maji_ndogo.webp).
+![Project Overview].([./image/Maji_ndogo.webp](https://raw.githubusercontent.com/noura2004warja/Maji-Ndogo-water-access/refs/heads/main/image/Maji_ndogo.webp)).
 
 ## Overview
 
