@@ -1,5 +1,6 @@
 # Maji-Ndogo-water-access-project
 
+![Project Overview].(./image/Maji_ndogo.webp).
 
 ## Overview
 
