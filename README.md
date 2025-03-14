@@ -1,6 +1,6 @@
 # Maji-Ndogo-water-access-project
 
-([Project overview](https://github.com/noura2004warja/Maji-Ndogo-water-access/blob/main/image/Maji_Ndogo.png)).
+([Project overview](image/Maji_Ndogo.png)).
 
 ## Overview
 
