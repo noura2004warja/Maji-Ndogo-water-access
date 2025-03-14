@@ -19,35 +19,14 @@ The primary goal of this database is to provide **comprehensive and actionable i
 
 The database `md_water_services` contains over **60,000 records** spanning **43 data fields** across multiple tables. Below is a breakdown of the key components:
 
-### Employee Table
+ - `Employee`: Stores details of field employees responsible for water monitoring and data collection, including their contact information and job roles.
+ - `Global Water Access`: Provides a high-level overview of water access statistics, segmented by country, region, and population distribution.
+ - `Location`: Captures surveyed locations, categorized by geographical data and type of water service point.
+ - `Visits`: Records field visits to water sources, tracking the frequency, conditions, and wait times at each location.
+ - `Water Quality`: Logs water quality assessments based on subjective scores and field visit data.
+ - `Water Source`: Maintains details about different water sources, including the number of people they serve.
 
-Stores details of field employees responsible for water monitoring and data collection, including their contact information and job roles.
-
-### Global Water Access Table
-
-Provides a high-level overview of water access statistics, segmented by country, region, and population distribution.
-
-### Location Table
-
-Captures surveyed locations, categorized by geographical data and type of water service point.
-
-### Visits Table
-
-Records field visits to water sources, tracking the frequency, conditions, and wait times at each location.
-
-### Water Quality Table
-
-Logs water quality assessments based on subjective scores and field visit data.
-
-### Water Source Table
-
-Maintains details about different water sources, including the number of people they serve.
-
-### Well Pollution Table
-
-Tracks pollution test results, recording contamination levels and potential risks to water safety.
-
-For a full breakdown of table schemas, including column details and data types, refer to the **[SCHEMA.md]((https://github.com/noura2004warja/Maji-Ndogo-water-access/blob/main/Dataset/SCHEMA.md))** file.
+ - `Well Pollution`: Tracks pollution test results, recording contamination levels and potential risks to water safety.
 
 ## How This Data Can Be Used
 
